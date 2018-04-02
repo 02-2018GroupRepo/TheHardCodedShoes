@@ -1,5 +1,11 @@
 # Compiled class file
 *.class
+.classpath
+.mvn
+build
+.settings
+Target
+mvnw*
 
 # Log file
 *.log
